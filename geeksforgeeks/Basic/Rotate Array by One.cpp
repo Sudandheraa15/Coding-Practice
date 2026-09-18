@@ -1,0 +1,13 @@
+class Solution {
+  public:
+    void rotate(vector<int> &arr) {
+        // code here
+       int k=arr[arr.size()-1];
+    //   cout<<k<<" ";
+        for(int i=arr.size()-1;i>0;i--){
+             arr[i]=arr[i-1];
+          
+        }
+      arr[0]=k;
+    }
+};
