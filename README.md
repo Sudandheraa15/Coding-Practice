@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 2**
+**Total solved: 54**
 
 ## Codeforces
 
@@ -20,12 +20,15 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 2**
+**Solved: 13**
 
 | Topic | Solved |
 | --- | --- |
-| [hash-table](./leetcode/hash-table) | 1 |
-| [string](./leetcode/string) | 1 |
+| [array](./leetcode/array) | 2 |
+| [binary-search](./leetcode/binary-search) | 3 |
+| [hash-table](./leetcode/hash-table) | 4 |
+| [string](./leetcode/string) | 2 |
+| [two-pointers](./leetcode/two-pointers) | 2 |
 
 
 ## CSES
@@ -43,23 +46,25 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions organized by difficulty rating.
 
-**Solved: 0**
+**Solved: 8**
 
 | Difficulty | Solved |
 | --- | --- |
-| — | 0 |
+| [Unrated](./codechef/Unrated) | 8 |
 
 
 ## GeeksforGeeks
 
 Solutions organized by difficulty level.
 
-**Solved: 0**
+**Solved: 33**
 
 | Difficulty | Solved |
 | --- | --- |
-| — | 0 |
+| [Basic](./geeksforgeeks/Basic) | 19 |
+| [Easy](./geeksforgeeks/Easy) | 7 |
+| [Medium](./geeksforgeeks/Medium) | 7 |
 
 
-_Last updated: 2026-09-22_
+_Last updated: 2026-09-25_
 <!-- /cf-sync -->
