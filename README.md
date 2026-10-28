@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 70**
+**Total solved: 3**
 
 ## Codeforces
 
@@ -20,15 +20,12 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 13**
+**Solved: 2**
 
 | Topic | Solved |
 | --- | --- |
-| [array](./leetcode/array) | 2 |
-| [binary-search](./leetcode/binary-search) | 3 |
-| [hash-table](./leetcode/hash-table) | 4 |
-| [string](./leetcode/string) | 2 |
-| [two-pointers](./leetcode/two-pointers) | 2 |
+| [hash-table](./leetcode/hash-table) | 1 |
+| [string](./leetcode/string) | 1 |
 
 
 ## CSES
@@ -46,25 +43,23 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions organized by difficulty rating.
 
-**Solved: 8**
+**Solved: 0**
 
 | Difficulty | Solved |
 | --- | --- |
-| [Unrated](./codechef/Unrated) | 8 |
+| — | 0 |
 
 
 ## GeeksforGeeks
 
 Solutions organized by difficulty level.
 
-**Solved: 49**
+**Solved: 1**
 
 | Difficulty | Solved |
 | --- | --- |
-| [Basic](./geeksforgeeks/Basic) | 19 |
-| [Easy](./geeksforgeeks/Easy) | 22 |
-| [Medium](./geeksforgeeks/Medium) | 8 |
+| [Basic](./geeksforgeeks/Basic) | 1 |
 
 
-_Last updated: 2026-10-15_
+_Last updated: 2026-10-28_
 <!-- /cf-sync -->
